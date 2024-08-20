@@ -10,4 +10,4 @@ jobs:
       - name: Get Your Code
         uses: actions/checkout@v2
       - name: Say Hello to the World
-        run: echo "Hello, World!"
+        run: echo "Hello, World"
