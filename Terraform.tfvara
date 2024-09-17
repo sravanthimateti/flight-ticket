@@ -1,0 +1,4 @@
+# Define the variables to be used
+key_name      = "your-key-name-here"  # Replace with your actual AWS Key Pair name
+instance_name = "Ubuntu-Server"
+aws_region    = "us-east-1"
